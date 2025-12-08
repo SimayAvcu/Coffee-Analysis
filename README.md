@@ -10,19 +10,6 @@ An interactive Streamlit application for analyzing coffee sales and forecasting 
 -  Forecast future income using the Prophet time series model  
 -  Predict the best-selling coffee using a Random Forest Classifier  
 
-##  Interface Preview
-
-<p align="center">
-  <img src="Coffee-Analysis/Coffee Analysis/coffeeimg1.png" alt="Coffee App Screenshot 1" width="45%" style="margin-right: 10px;"/>
-  <img src="coffeeimg2.jpeg" alt="Coffee App Screenshot 2" width="45%"/>
-</p>
-
-##  Requirements
-
-To install all required dependencies:
-
-```bash
-pip install -r requirements.txt
-
 
 ## How to Run
+python -m streamlit run CoffeeAnalysisMP.py
