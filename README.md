@@ -13,7 +13,7 @@ An interactive Streamlit application for analyzing coffee sales and forecasting 
 ##  Interface Preview
 
 <p align="center">
-  <img src="coffeeimg1.png" alt="Coffee App Screenshot 1" width="45%" style="margin-right: 10px;"/>
+  <img src=Coffee Analysis/coffeeimg1.png" alt="Coffee App Screenshot 1" width="45%" style="margin-right: 10px;"/>
   <img src="coffeeimg2.png" alt="Coffee App Screenshot 2" width="45%"/>
 </p>
 
