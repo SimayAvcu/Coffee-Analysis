@@ -16,15 +16,7 @@ An interactive Streamlit application for analyzing coffee sales and forecasting 
   <img src="Coffee Analysis/coffeeimg2.png" alt="Coffee App Screenshot 2" width="45%"/>
 </p>
 
-## Requirements
-
-To install all required dependencies:
-
-```bash
-pip install -r requirements.txt
-
 
 ## How to Run
 
-```bash
 python -m streamlit run CoffeeAnalysisMP.py
