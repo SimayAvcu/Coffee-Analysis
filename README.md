@@ -25,4 +25,6 @@ pip install -r requirements.txt
 
 
 ## How to Run
+
+```bash
 python -m streamlit run CoffeeAnalysisMP.py
