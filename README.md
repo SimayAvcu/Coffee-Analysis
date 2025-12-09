@@ -4,11 +4,11 @@ An interactive Streamlit application for analyzing coffee sales and forecasting 
 
 ## Features
 
--  Analyze income, most sold coffee, and payment method on a specific past day  
--  Summarize total income and trends over a selected date range  
--  Detailed analysis for a selected coffee type  
--  Forecast future income using the Prophet time series model  
--  Predict the best-selling coffee using a Random Forest Classifier  
+* Analyze income, most sold coffee, and payment method on a specific past day
+* Summarize total income and trends over a selected date range
+* Detailed analysis for a selected coffee type
+* Forecast future income using the Prophet time series model
+* Predict the best-selling coffee using a Random Forest Classifier
 
 ## Interface Preview
 <p align="center">
