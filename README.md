@@ -23,3 +23,7 @@ To install all required dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+
+## How to Run
+python -m streamlit run CoffeeAnalysisMP.py
